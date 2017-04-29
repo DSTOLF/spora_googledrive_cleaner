@@ -2,7 +2,9 @@
 
 This is a simple Python script to remove the last revision of every file encrypted by Spora Ransomware and rename them to what they were before infection.
 
-This script will revert all files on your Google Drive back one revision if they were altered after a certain date. Use at your own risk.
+If you have just a few files, you're probably good rewinding them one revision manually on Google Drive webpage, but if you have hundreds of them, you'll want a procedure to rewind them all automagically.
+
+This script will revert all files on your Google Drive back one revision, if they were altered after a certain date. Use at your own risk.
 
 ## Setup
 
